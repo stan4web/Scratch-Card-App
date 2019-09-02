@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Card Payment System: @ViewBag.Title</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Content/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="~/Content/bootstrap/css/modern-business.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    <link href="~/Content/bootstrap/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/css/datepicker.css" rel="stylesheet" />
+
+    <style>
+        .signin a
+{
+    float:right; 
+    margin-right:10px; 
+    background-color:#fcf5f5;
+    color:#000;
+    padding:5px;
+    font-style:italic;
+    font-size:14px;
+   font-weight:bold;
+   -webkit-border-radius:15px;
+   -moz-border-radius:15px;
+   border-radius:15px;
+   -webkit-box-shadow:0 0 2px 1px rgba(0, 0, 0, 0.15);
+   -moz-box-shadow:0 0 2px 1px rgba(0, 0, 0, 0.15);
+   box-shadow:0 0 2px 1px rgba(0, 0, 0, 0.15);
+   border:1px solid #52533C;
+   text-decoration:none;
+}
+.signin a:hover
+{
+    float:right; 
+    margin-right:10px; 
+    background-color:#1196e4;
+    color:#FFFFFF;
+    padding:5px;
+    font-style:italic;
+    font-size:14px;
+    font-weight:bold;
+   -webkit-border-radius:15px;
+   -moz-border-radius:15px;
+   border-radius:15px;
+   -webkit-box-shadow:0 0 2px 1px rgba(0, 0, 0, 0.15);
+   -moz-box-shadow:0 0 2px 1px rgba(0, 0, 0, 0.15);
+   box-shadow:0 0 2px 1px rgba(0, 0, 0, 0.15);
+   border:1px solid #52533C;
+   text-decoration:none;
+}
+
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../Home/Index">Card Payment System</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                 
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Result Cards", "Index", "Scratchcard")</li>
+                    <li>@Html.ActionLink("New Cards", "Index2", "Scratchcard")</li>
+                    <li>@Html.ActionLink("OnliePayment", "OnlinePayIndex", "Scratchcard")</li>
+                    
+                    @if (User.Identity.IsAuthenticated == true)
+                    {
+                        
+                        <div class="signin">
+                            @Html.Partial("_LoginPartial")
+                        </div>
+                    }
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+ 
+     
+
+    <!-- Page Content -->
+    <div class="container">
+
+    <div>
+        @RenderBody()
+    </div>
+    </div>
+     <hr>
+
+        <!-- Footer -->
+        <div id="footer">
+            <div class="row">
+                <div class="col-lg-12" style="text-align:center">
+                    <p>Copyright &copy; Online Payment @DateTime.Now.Year</p>
+                    <p>Design And Built By:<span style="color:#ffd800">Ibekwe Stanley</span></p>
+                    <p>Powered by<br /> <a href="http://wwww.microwaresolutionng.com">Microware Solution</a></p>
+                    <p>{ +234 (0) 803 745 2563 }</p>
+                    <br />
+                </div>
+            </div>
+        </div>
+    
+    <!-- /.container -->
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="~/Content/bootstrap/js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+
+
+    <script src="~/Content/bootstrap/js/bootstrap-datepicker.js"></script>
+    <script>
+        $('.carousel').carousel({
+            interval: 5000 //changes the speed
+        })
+    </script>
+    <script>
+        if (top.location != location) {
+            top.location.href = document.location.href;
+        }
+        $(function () {
+            window.prettyPrint && prettyPrint();
+            $('#dp1').datepicker({
+                format: 'mm-dd-yyyy'
+            });
+            $('#dp2').datepicker();
+            $('#dp3').datepicker();
+            $('#dp3').datepicker();
+            $('#dpYears').datepicker();
+            $('#dpMonths').datepicker();
+
+
+            var startDate = new Date(2012, 1, 20);
+            var endDate = new Date(2012, 1, 25);
+            $('#dp4').datepicker()
+				.on('changeDate', function (ev) {
+				    if (ev.date.valueOf() > endDate.valueOf()) {
+				        $('#alert').show().find('strong').text('The start date can not be greater then the end date');
+				    } else {
+				        $('#alert').hide();
+				        startDate = new Date(ev.date);
+				        $('#startDate').text($('#dp4').data('date'));
+				    }
+				    $('#dp4').datepicker('hide');
+				});
+            $('#dp5').datepicker()
+				.on('changeDate', function (ev) {
+				    if (ev.date.valueOf() < startDate.valueOf()) {
+				        $('#alert').show().find('strong').text('The end date can not be less then the start date');
+				    } else {
+				        $('#alert').hide();
+				        endDate = new Date(ev.date);
+				        $('#endDate').text($('#dp5').data('date'));
+				    }
+				    $('#dp5').datepicker('hide');
+				});
+
+            // disabling dates
+            var nowTemp = new Date();
+            var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate(), 0, 0, 0, 0);
+
+            var checkin = $('#dpd1').datepicker({
+                onRender: function (date) {
+                    return date.valueOf() < now.valueOf() ? 'disabled' : '';
+                }
+            }).on('changeDate', function (ev) {
+                if (ev.date.valueOf() > checkout.date.valueOf()) {
+                    var newDate = new Date(ev.date)
+                    newDate.setDate(newDate.getDate() + 1);
+                    checkout.setValue(newDate);
+                }
+                checkin.hide();
+                $('#dpd2')[0].focus();
+            }).data('datepicker');
+            var checkout = $('#dpd2').datepicker({
+                onRender: function (date) {
+                    return date.valueOf() <= checkin.date.valueOf() ? 'disabled' : '';
+                }
+            }).on('changeDate', function (ev) {
+                checkout.hide();
+            }).data('datepicker');
+        });
+	</script>
+   @* @Scripts.Render("~/bundles/jquery")*@
+        @RenderSection("scripts", required: false)
+</body>
+</html>

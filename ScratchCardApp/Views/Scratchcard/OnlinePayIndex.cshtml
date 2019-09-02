@@ -1,0 +1,92 @@
+﻿@model PagedList.IPagedList<ScratchCardApp.Models.OnlinePayment>
+
+@{
+    ViewBag.Title = "Index";
+    int sn = 1;
+}
+
+<h2>Index</h2>
+
+<div style="color:#1d6f14">
+    <strong>Total: @ViewBag.Count</strong>
+</div>
+<p>
+    @Html.ActionLink("Create New Batch", "PayCard")
+</p>
+
+<div style="margin-bottom:7px">
+@using (Html.BeginForm())
+{
+   <div >Search Log: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new {@class = ""}) 
+   <input class = "btn btn-primary" type="submit" value="Search" /></div>
+    <strong style="color:#185e11; font-size:12px; padding:3px;margin:5px">Find Member by Pin Number, BatchNumber,OwnerDetail,UserDetails and Serial Number</strong>
+}
+</div>
+
+<table class="table table-striped table-hover table-bordered table-condenced">
+    <tr>
+        <th>S/N |</th>
+        <th>
+            PinNumber
+        </th>
+        <th>
+            SerialNumber
+        </th>
+        <th>
+            BatchNumber
+        </th>
+       
+    </tr>
+
+@foreach (var item in Model.OrderBy(p=>p.CardSerialNumber)) {
+    <tr>
+        <td>@(sn++)</td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CardPinNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CardSerialNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BatchNumber)
+        </td>
+       
+    </tr>
+}
+
+</table>
+
+<div>
+    <p style="text-align:right; margin-top:10px">
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+    of @Model.PageCount
+     
+    @if (Model.HasPreviousPage)
+    {
+        @Ajax.ActionLink("<<  First", "OnlinePayIndex", new { page = 1, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }, new AjaxOptions { UpdateTargetId = "main" }, new {@class = "small button" })
+        @Html.Raw(" ");
+        @Ajax.ActionLink("< Prev", "OnlinePayIndex", new { page = Model.PageNumber - 1, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }, new AjaxOptions { UpdateTargetId = "main" }, new {@class = "small button" })
+    }
+    else
+    {
+       
+        @Html.Raw(" ");
+        @: <span class = "small button" ><< Prev</span> 
+    }
+      
+    @if (Model.HasNextPage)
+    {
+        
+        @Ajax.ActionLink("Next >", "OnlinePayIndex", new { page = Model.PageNumber + 1, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }, new AjaxOptions { UpdateTargetId = "main" }, new {@class = "small button" })
+         @Html.Raw(" ");
+        @Ajax.ActionLink("Last >>", "OnlinePayIndex", new { page = Model.PageCount, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }, new AjaxOptions { UpdateTargetId = "main" }, new {@class = "small button" })
+    }
+    else
+    {
+        @:<span class = "small button" >Next >></span> 
+        @Html.Raw(" ")
+       
+    }
+</p>
+</div>
+<div style="width:100%;height:200px"></div>

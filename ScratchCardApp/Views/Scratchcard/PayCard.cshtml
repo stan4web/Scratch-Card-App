@@ -1,0 +1,133 @@
+﻿@model ScratchCardApp.ViewModels.PinViewModel
+@{
+    int sn = 1;
+ }
+
+
+<!-- Page Content -->
+
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Scratch Cards
+                    <small>Payment</small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="index.html">Home</a>
+                    </li>
+                    <li class="active"></li>
+                </ol>
+            </div>
+        </div>
+        <!-- /.row -->
+
+
+
+<h4>Online Payment System</h4>
+<hr />
+
+<!-- Projects Row -->
+        <div class="row">
+            <div class="col-md-6 img-portfolio">
+
+<section id="loginForm">
+<h2>PIN Generating System</h2>
+  <p style="font-size:18px;color:#f00;">@ViewBag.Error</p>  
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <div style="border:solid 1px #eae4e4;padding:20px">
+        
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Quantity)
+        </div>
+        <div class="editor-field">
+            <select name="Quantity" class="form-control" style="width:80px">
+                <option>1</option>
+                <option>10</option>
+                <option>100</option>
+                <option>1000</option>
+                <option>10000</option>
+                
+            </select>
+            @Html.ValidationMessageFor(model => model.Quantity)
+        </div>
+
+         <div class="editor-label">
+            @Html.LabelFor(model => model.Digit,"How many digit?")
+        </div>
+        <div class="editor-field">
+            <select name="Digit" class="form-control" style="width:100px">
+                <option>5</option>
+                <option>8</option>
+                <option>10</option>
+                <option>12</option>
+                <option>16</option>
+                <option>20</option>
+            </select>
+            @Html.ValidationMessageFor(model => model.Digit)
+        </div>
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SerialCode)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.SerialCode, new { @class = "form-control",@style="width:140px" })<small> Please Enter only four digit</small>
+            @Html.ValidationMessageFor(model => model.SerialCode)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StartFrom)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.StartFrom, new { @class = "form-control",@style="width:160px" })<small> Optional </small>
+            @Html.ValidationMessageFor(model => model.StartFrom)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.BatchNumber)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.BatchNumber, new { @class = "form-control",@style="width:180px" })
+            @Html.ValidationMessageFor(model => model.BatchNumber)
+        </div>
+        <p style="margin-top:10px">
+            <input id="button" type="submit" value="Generate" class="btn btn-info" />
+        </p>
+    </div>
+}
+<p>@Html.ActionLink("Back to list","OnlinePayIndex")</p>
+ 
+</section>
+
+                </div>
+           
+
+            <div class="col-md-6 img-portfolio">
+<section class="social" id="socialLoginForm">
+    
+    @if (TempData["Check"] != null)
+    {
+        <h2 style="color:#328310; font-size:x-large">Contratulation!</h2>
+        <img src="~/Images/success.png" style="width:100px" />
+      
+            <p style="font-size:20px; color:#0094ff">You have successfully generated @ViewBag.Success pieces of scratch
+                 cards with the Batch Number: @ViewBag.Batch</p>
+        <h3>Total Number Available @ViewBag.Count </h3>
+        <h4>The last serial number @ViewBag.Max </h4>
+    }else
+    {
+        <img src="~/Images/Lock.png" style="width:200px" />
+         <h3>Total Number Available @ViewBag.Count </h3>
+        @*<h4>The last serial number @ViewBag.Max </h4>*@
+    }
+  
+</section>
+
+                </div>
+            </div>
+
+@section Scripts {
+    @*@Scripts.Render("~/bundles/jqueryval")*@
+
+}
+<div style="width:100%;height:200px"></div>

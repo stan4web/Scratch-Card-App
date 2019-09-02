@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<img src="~/Images/Lock.png" />
+@*<p id="rData">
+</p>
+
+<p>
+   
+    <div>
+        Enter you name @Html.TextBox("Name")
+    <input type="submit" id="SubmitName" value="Submit" class="btn btn-primary"/>
+    </div>
+    
+  
+</p>
+
+<script type="text/jscript">
+    $('#SubmitName').click(function () {
+        var url = "/Home/WelcomeMsg";
+        var name = $('#Name').val();
+        $.get(url, { input: name }, function (data) {
+            $("#rData").html(data);
+        });
+    })
+</script>
+
+<h3>We suggest the following:</h3>*@

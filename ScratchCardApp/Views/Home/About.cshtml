@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<h2>@TempData["email"]</h2>
+<hr />
+
+@using(Html.BeginForm("Email","Home"))
+{
+    <input type="submit" value="Send" />
+}

@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Search";
+    //Layout = "~/Views/Shared/_Sample.cshtml";
+}
+<script src="~/Scripts/jquery-1.8.3.js"></script>
+<script src="~/Scripts/jquery-ui-1.8.20.js"></script>
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+<link href="~/Content/themes/base/jquery.ui.autocomplete.css" rel="stylesheet" />
+<h2>Search</h2>
+
+<p>
+    Enter country name @Html.TextBox("PinNumber")
+    <input type="submit" id="GetCustomers" value="Submit"/><br />
+    <span id="rData"></span>
+</p>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#PinNumber").autocomplete({
+            source: function(request,response) {
+                $.ajax({
+                    url: "/Scratchcard/AutoCompleteCountry",
+                    type: "POST",
+                    dataType: "json",
+                    data: { term: request.term },
+                    success: function (data) {
+                        response($.map(data, function (item) {
+                            return { label: item.PinNumber, value: item.PinNumber };
+                        }))
+
+                    }
+                })
+            },
+            messages: {
+                noResults: "", results: ""
+            }
+        });
+    })
+</script>

@@ -1,0 +1,223 @@
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.pdb
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.pdb
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.inituser.resources
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.initdata.resources
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Calabonga.Mvc.PagedListExt.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\PagedList.dll
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\PagedList.xml
+c:\users\user\documents\visual studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.initdata1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.initdata2.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csprojResolveAssemblyReference.cache
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.pdb
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Antlr3.Runtime.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Calabonga.Mvc.PagedListExt.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\EntityFramework.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\PagedList.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Optimization.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebGrease.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\PagedList.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\EntityFramework.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csprojResolveAssemblyReference.cache
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.inituser.resources
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.initdata.resources
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.initdata1.resources
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.initdata2.resources
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csproj.GenerateResource.Cache
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.dll
+C:\Users\Ibekwe Stanley\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.pdb
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.pdb
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Antlr3.Runtime.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Calabonga.Mvc.PagedListExt.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\EntityFramework.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\PagedList.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Optimization.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebGrease.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\PagedList.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\EntityFramework.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csprojResolveAssemblyReference.cache
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.init.resources
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csproj.GenerateResource.Cache
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.dll
+C:\Users\MICRO SOLUTION\Documents\Visual Studio 2012\Projects\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.pdb
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.dll.config
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\ScratchCardApp.pdb
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\Antlr3.Runtime.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\Calabonga.Mvc.PagedListExt.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\EntityFramework.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\PagedList.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Optimization.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\WebGrease.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\PagedList.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\EntityFramework.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\Newtonsoft.Json.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Net.Http.Formatting.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Helpers.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Http.WebHost.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Mvc.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.Razor.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\WebMatrix.Data.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\WebMatrix.WebData.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csprojResolveAssemblyReference.cache
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.Migrations.init.resources
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.csproj.GenerateResource.Cache
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.dll
+C:\Users\sibekwe\Desktop\My Stuf\Programming\Stanley Project\ScratchCardApp\ScratchCardApp\obj\Debug\ScratchCardApp.pdb
